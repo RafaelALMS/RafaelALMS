@@ -1,6 +1,6 @@
 <header>
     <a href="https://www.linkedin.com/in/rafael-almeida-7528a4208/">
-    <img src="svg/linkedin.svg" alt="linkedin" style=" width: 200px"/>
+    <img src="http://www.w3.org/2000/svg" alt="linkedin" style=" width: 200px"/>
     </a>
 </header
 
